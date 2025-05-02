@@ -37,6 +37,5 @@ N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunité
 ---
 
 <p align="center">
-  <i>Un code propre est un code heureux.</i><br>
-  <img src="https://komarev.com/ghpvc/?username=ton-username" alt="Profile views">
+  <i>"Un code propre est un code heureux."</i><br>
 </p>
