@@ -34,8 +34,6 @@ N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunité
 - **Email** : ton.email@example.com
 - **Site Web** : [votre-site-web.com](https://votre-site-web.com)
 
----
-
 <p align="center">
   <i>"Un code propre est un code heureux."</i><br>
 </p>
