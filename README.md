@@ -23,7 +23,7 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
 | **API** | ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **Modélisation** | ![UML](https://img.shields.io/badge/UML-FB7A24?style=for-the-badge&logo=uml&logoColor=white) ![MERISE](https://img.shields.io/badge/MERISE-0078D4?style=for-the-badge&logo=merise&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
-| **Les outils IDE** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
+| **Outils et IDE** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
 
 ## 🔍 Réalisations Professionnelles
 
