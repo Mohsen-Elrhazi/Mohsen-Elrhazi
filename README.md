@@ -36,8 +36,9 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
 
 N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunités professionnelles :
 
-- **LinkedIn** : [linkedin.com/in/mohsenelrhazi](https://linkedin.com/in/mohsen-elrhazi-13a65b2bb)
-- **Email** : mohsenelrhazi3@gmail.com
+[![Email](...)](mailto:mohsenelrhazi3@gmail.com)
+[![GitHub](...)](https://github.com/MohsenElrhazi)
+
 <!-- - **Site Web** : [votre-site-web.com](https://votre-site-web.com) -->
 
 <p align="center">
