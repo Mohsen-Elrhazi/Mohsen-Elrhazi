@@ -10,8 +10,7 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
 ## 🎓 Formation
 - **Technicien Supérieur en Développement des Systèmes d'Information (BTS)**
 - **Formation Full Stack - YouCode (UM6P)**
-- **ECOLE SUPÉRIEUR DE TECHNOLOGIE (ESTC), CASABLANCA**  
-  Bac +1 en génie électique
+- **ECOLE SUPÉRIEUR DE TECHNOLOGIE (ESTC), CASABLANCA** &nbsp;&nbsp;&nbsp;&nbsp;*Bac +1 en génie électique*
 
 ## 💻 Compétences Techniques
 
