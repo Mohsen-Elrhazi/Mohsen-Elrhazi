@@ -26,24 +26,6 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
 | **Gestion** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft-office&logoColor=white) |
 | **Éditeurs de code** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
 
-## 🔍 Réalisations Professionnelles
-
-### 🛒 E-commerce Web App
-- Application e-commerce complète avec panier d'achat, paiement et gestion des commandes
-- **Technologies** : React, Node.js, MySQL
-- **Lien** : [GitHub Repository](https://github.com/ton-lien)
-
-### 👨‍🎓 Système de Gestion des Étudiants
-- Application en C pour la gestion complète des dossiers étudiants
-- **Technologies** : C, Structures de données avancées
-- **Lien** : [GitHub Repository](https://github.com/ton-lien)
-
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunités professionnelles :
