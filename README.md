@@ -4,6 +4,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-lien)
 
+<div align="center">
+
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Developer+Profile...;System+Status%3A+Online;Loading+...+...)
+ </div>
+<div align="center">
+
 ## 🚀 À propos de moi
 Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
 
