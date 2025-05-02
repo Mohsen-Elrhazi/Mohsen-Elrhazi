@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 À propos de moi
-Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
+Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un diplôme BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
 
 ## 🎓 Formation
 - **Formation Full Stack - YouCode (UM6P)**&nbsp;&nbsp;&nbsp;&nbsp;*2024 - En cours*
