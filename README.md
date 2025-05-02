@@ -6,9 +6,10 @@
 
 <div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Developer+Profile...;System+Status%3A+Online;Loading+...+...)
- </div>
-<div align="center">
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=600&height=120&lines=Développeur+Web+Full+Stack;Passionné+par+l'innovation+technologique;Créateur+de+solutions+web+modernes;Bienvenue+sur+mon+profil+GitHub+!)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%"/>
+</div>
 
 ## 🚀 À propos de moi
 Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
