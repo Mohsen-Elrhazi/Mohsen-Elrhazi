@@ -23,7 +23,7 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
   *Bac +2 · 2022 – 2024*
 
 - **École Supérieure de Technologie (ESTC), Casablanca**  
-  *Bac +1 en Génie Électrique · 2021 – 2022*
+  *Bac +1 en Génie Électrique · 2019 – 2020*
 
 - **Lycée Qualifiant Technique Al-Khwarizmi, Safi**  
   *Baccalauréat en Sciences et Technologies Électriques · 2018 – 2019*
