@@ -15,9 +15,19 @@
 Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un diplôme BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
 
 ## 🎓 Formation
-- **Formation Full Stack - YouCode (UM6P)**&nbsp;&nbsp;&nbsp;&nbsp;*2024 - En cours*
-- **Technicien Supérieur en Développement des Systèmes d'Information (BTS)**&nbsp;&nbsp;&nbsp;&nbsp;*Bac +2*
-- **École Supérieure de Technologie (ESTC), Casablanca**&nbsp;&nbsp;&nbsp;&nbsp;*Bac +1 en génie électrique*
+
+- **Formation Développeur Full Stack – YouCode (UM6P)**  
+  *2024 – En cours*
+
+- **BTS – Technicien Supérieur en Développement des Systèmes d’Information**  
+  *Bac +2 · 2022 – 2024*
+
+- **École Supérieure de Technologie (ESTC), Casablanca**  
+  *Bac +1 en Génie Électrique · 2021 – 2022*
+
+- **Lycée Qualifiant Technique Al-Khwarizmi, Safi**  
+  *Baccalauréat en Sciences et Technologies Électriques · 2018 – 2019*
+
 
 ## 💻 Compétences Techniques
 
