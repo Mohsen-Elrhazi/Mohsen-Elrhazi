@@ -6,9 +6,10 @@
 
 <div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=120&lines=Développeur+Web+Full+Stack;Passionné+par+l'innovation+technologique;Créateur+de+solutions+web+modernes;Bienvenue+sur+mon+profil+GitHub+!)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&height=120&lines=Bienvenue+sur+mon+portfolio+!;Développeur+Web+Full+Stack;Passionné+par+l'innovation+technologique;Créateur+de+solutions+web+modernes)
 
 </div>
+
 
 ## 🚀 À propos de moi
 Développeur Web Full Stack passionné par la création de solutions web modernes et performantes. Formé à YouCode (UM6P) et titulaire d'un diplôme BTS en Développement des Systèmes d'Information, je combine expertise technique et vision créative pour concevoir des applications web innovantes.
