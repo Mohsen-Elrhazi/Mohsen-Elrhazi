@@ -18,31 +18,21 @@ Développeur Web Full Stack passionné par la création de solutions web moderne
 
 ## 🎓 Formation
 
-- **Certificat en Développement Web – YouCode | UM6P, Campus Youssoufia**  
-  *2024 – Présent*
-
-- **BTS Développement des Systèmes d’Information – Centre BTS Hassan II, Marrakech**  
-  *2022 – 2024*
-
-- **Baccalauréat +1 en Génie Électrique – École Supérieure de Technologie, Casablanca**  
-  *2019 – 2022*
-
-- **Baccalauréat Sciences et Technologies Électriques – Lycée Technique Alkhawarizmi, Safi**  
-  *2018 – 2019*
+- **Certificat en Développement Web – YouCode | UM6P, Campus Youssoufia** — 2024 – Présent
+- **BTS Développement des Systèmes d’Information – Centre BTS Hassan II, Marrakech** — 2022 – 2024
+- **Baccalauréat +1 en Génie Électrique – École Supérieure de Technologie, Casablanca** — 2019 – 2022
+- **Baccalauréat Sciences et Technologies Électriques – Lycée Technique Alkhawarizmi, Safi** — 2018 – 2019
 
 ## 💼 Expériences Professionnelles
 
-- **SOFTNEX – Casablanca**  
-  *Mai 2025 – Juillet 2025*  
-  **Sujet :** Conception et développement d’une solution SaaS pour la gestion digitale des fiches de police hôtelières
+- **SOFTNEX – Casablanca** — Mai 2025 – Juillet 2025  
+  Sujet : Conception et développement d’une solution SaaS pour la gestion digitale des fiches de police hôtelières
 
-- **ONESTCOM – Marrakech**  
-  *Juillet 2023 – Août 2023*  
-  **Sujet :** Conception et développement d’un site e-commerce
+- **ONESTCOM – Marrakech** — Juillet 2023 – Août 2023  
+  Sujet : Conception et développement d’un site e-commerce
 
-- **MAROC DATA CENTER – Rabat/Témara**  
-  *Mai 2024 – Juin 2024*  
-  **Sujet :** Analyse de la configuration d’un Data Center et mise en place d’un serveur virtualisé avec ESXi
+- **MAROC DATA CENTER – Rabat/Témara** — Mai 2024 – Juin 2024  
+  Sujet : Analyse de la configuration d’un Data Center et mise en place d’un serveur virtualisé avec ESXi
 
 ## 💻 Compétences Techniques
 
