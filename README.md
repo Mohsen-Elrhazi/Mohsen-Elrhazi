@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-elrhazi-13a65b2bb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrhazi.mohsen.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen-Elrhazi)
+[![CV](https://img.shields.io/badge/Télécharger_CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/CV_Mohsen_Elrhazi.pdf)
+
 
 <div align="center">
 
