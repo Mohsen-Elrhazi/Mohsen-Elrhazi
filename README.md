@@ -69,11 +69,4 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 </p>
 
 
-### 🧩 Conception
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48" title="UML" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" title="Merise" />
-</p>
-
 
