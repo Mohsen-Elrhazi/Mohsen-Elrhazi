@@ -5,27 +5,9 @@
 
 <br>
 
-<a href="https://linkedin.com/in/mohsen-elrhazi-13a65b2bb" target="_blank" style="margin: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
-  <br>
-  <b>LinkedIn</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:elrhazi.mohsen.dev@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" />
-  <br>
-  <b>Gmail</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mohsen-elrhazi.tech" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="50" />
-  <br>
-  <b>Portfolio</b>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-elrhazi-13a65b2bb) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrhazi.mohsen.dev@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white)](https://www.mohsen-elrhazi.tech)
 </div>
 
 ---
