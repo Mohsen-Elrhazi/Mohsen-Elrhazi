@@ -23,7 +23,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 
 ## 🧠 Compétences Techniques
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;&nbsp;
@@ -39,7 +39,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 
 
 
-### ⚙️ Backend
+###  Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java (Spring Boot / Spring / J2EE)" />&nbsp;&nbsp;
@@ -49,7 +49,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 </p>
 
 
-### 🗄️ Bases de données
+###  Bases de données
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;
@@ -58,7 +58,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 </p>
 
 
-### ☁️ DevOps & CI/CD
+###  DevOps & CI/CD
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;&nbsp;
