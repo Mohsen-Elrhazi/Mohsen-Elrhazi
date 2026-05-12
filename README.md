@@ -48,7 +48,6 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
 </p>
 
----
 
 ### 🗄️ Bases de données
 
@@ -58,7 +57,6 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" />
 </p>
 
----
 
 ### ☁️ DevOps & CI/CD
 
@@ -70,7 +68,6 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
----
 
 ### 🧩 Conception
 
@@ -79,10 +76,4 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" title="Merise" />
 </p>
 
----
 
-<div align="center">
-
-⭐ Thank you for visiting my profile ⭐
-
-</div>
