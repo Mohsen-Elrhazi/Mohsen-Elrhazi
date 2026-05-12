@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-elrhazi-13a65b2bb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrhazi.mohsen.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen-Elrhazi)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=120&lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Angular;Building+Modern+Web+Applications" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-elrhazi-13a65b2bb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrhazi.mohsen.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen-Elrhazi)
 
 </div>
 
@@ -23,19 +23,17 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 
 ## 🧠 Compétences Techniques
 
----
-
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </p>
 
@@ -44,9 +42,9 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" title="Java (Spring Boot / Spring / J2EE)" />
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot / Spring" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java (Spring Boot / Spring / J2EE)" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot / Spring" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
 </p>
 
@@ -55,30 +53,9 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### 🗄️ Bases de données
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" />
-</p>
----
-
-### 🗄️ Bases de données
-
-<p align="left">
-  <abbr title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </abbr>
-
-  <abbr title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-  </abbr>
-
-  <abbr title="SQL Server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
-  </abbr>
-
-  <abbr title="H2 Database">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-  </abbr>
 </p>
 
 ---
@@ -86,25 +63,11 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### ☁️ DevOps & CI/CD
 
 <p align="left">
-  <abbr title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </abbr>
-
-  <abbr title="Jenkins">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
-  </abbr>
-
-  <abbr title="SonarQube">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/>
-  </abbr>
-
-  <abbr title="Git">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </abbr>
-
-  <abbr title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </abbr>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" title="SonarQube" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
 ---
@@ -112,21 +75,9 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### 🧩 Conception
 
 <p align="left">
-  <abbr title="UML - Unified Modeling Language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48"/>
-  </abbr>
-
-  <abbr title="Merise (Méthode de conception)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48"/>
-  </abbr>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48" title="UML" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" title="Merise" />
 </p>
----
-
-## 📫 Contact
-
-- 📧 Email : elrhazi.mohsen.dev@gmail.com  
-- 🔗 LinkedIn : https://linkedin.com/in/mohsen-elrhazi-13a65b2bb  
-- 💻 GitHub : https://github.com/Mohsen-Elrhazi  
 
 ---
 
