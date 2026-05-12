@@ -18,7 +18,7 @@
 Développeur Web Full Stack passionné par la création d’applications web modernes, performantes et évolutives.  
 Je conçois des solutions complètes du front-end au back-end avec une attention particulière à la qualité du code et à l’expérience utilisateur.
 
-
+---
 
 ##  Compétences Techniques
 
