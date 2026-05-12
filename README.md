@@ -37,7 +37,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </p>
 
----
+
 
 ### ⚙️ Backend
 
