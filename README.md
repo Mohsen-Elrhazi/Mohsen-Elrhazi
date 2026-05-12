@@ -1,4 +1,3 @@
-# 👨‍💻 Développeur Full Stack — Mohsen Elrhazi
 
 <div align="center">
 
