@@ -25,7 +25,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 
 ---
 
-### 🎨 Front-End
+### 🎨 Frontend
 
 <p align="left">
   <abbr title="HTML5">
@@ -44,6 +44,10 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
     <img src="https://skillicons.dev/icons?i=ts" />
   </abbr>
 
+  <abbr title="Angular">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </abbr>
+
   <abbr title="React">
     <img src="https://skillicons.dev/icons?i=react" />
   </abbr>
@@ -52,26 +56,18 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </abbr>
 
-  <abbr title="Angular">
-    <img src="https://skillicons.dev/icons?i=angular" />
+  <abbr title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </abbr>
 
   <abbr title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </abbr>
-
-  <abbr title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </abbr>
-
-  <abbr title="jQuery">
-    <img src="https://skillicons.dev/icons?i=jquery" />
-  </abbr>
 </p>
 
 ---
 
-### ⚙️ Back-End
+### ⚙️ Backend
 
 <p align="left">
   <abbr title="Java">
@@ -90,8 +86,8 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
     <img src="https://skillicons.dev/icons?i=laravel" />
   </abbr>
 
-  <abbr title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <abbr title="J2EE / Jakarta EE">
+    <img src="https://skillicons.dev/icons?i=java" />
   </abbr>
 </p>
 
@@ -108,22 +104,30 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
     <img src="https://skillicons.dev/icons?i=postgresql" />
   </abbr>
 
-  <abbr title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </abbr>
-
   <abbr title="SQL Server">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+  </abbr>
+
+  <abbr title="H2 Database">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
   </abbr>
 </p>
 
 ---
 
-### ☁️ DevOps & Outils
+### ☁️ DevOps & CI/CD
 
 <p align="left">
   <abbr title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" />
+  </abbr>
+
+  <abbr title="Jenkins">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+  </abbr>
+
+  <abbr title="SonarQube">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/>
   </abbr>
 
   <abbr title="Git">
@@ -133,34 +137,21 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
   <abbr title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" />
   </abbr>
-
-  <abbr title="Postman">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </abbr>
-
-  <abbr title="Jira">
-    <img src="https://skillicons.dev/icons?i=jira" />
-  </abbr>
 </p>
 
 ---
 
-### 🛠️ IDEs
+### 🧩 Conception
 
 <p align="left">
-  <abbr title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+  <abbr title="UML - Unified Modeling Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48"/>
   </abbr>
 
-  <abbr title="IntelliJ IDEA">
-    <img src="https://skillicons.dev/icons?i=idea" />
-  </abbr>
-
-  <abbr title="Eclipse">
-    <img src="https://skillicons.dev/icons?i=eclipse" />
+  <abbr title="Merise (Méthode de conception)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48"/>
   </abbr>
 </p>
-
 ---
 
 ## 📫 Contact
