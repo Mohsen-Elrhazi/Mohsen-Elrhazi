@@ -5,21 +5,30 @@
 
 <br>
 
-<a href="https://linkedin.com/in/mohsen-elrhazi-13a65b2bb" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/mohsen-elrhazi-13a65b2bb">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+        <br>LinkedIn
+      </a>
+    </td>
 
-&nbsp;&nbsp;
+    <td align="center">
+      <a href="mailto:elrhazi.mohsen.dev@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+        <br>Gmail
+      </a>
+    </td>
 
-<a href="mailto:elrhazi.mohsen.dev@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" title="Gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.mohsen-elrhazi.tech" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="45" title="Portfolio"/>
-</a>
+    <td align="center">
+      <a href="https://www.mohsen-elrhazi.tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="45"/>
+        <br>Portfolio
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
