@@ -28,41 +28,15 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### 🎨 Frontend
 
 <p align="left">
-  <abbr title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </abbr>
-
-  <abbr title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </abbr>
-
-  <abbr title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </abbr>
-
-  <abbr title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </abbr>
-
-  <abbr title="Angular">
-    <img src="https://skillicons.dev/icons?i=angular" />
-  </abbr>
-
-  <abbr title="React">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </abbr>
-
-  <abbr title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </abbr>
-
-  <abbr title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </abbr>
-
-  <abbr title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </abbr>
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </p>
 
 ---
@@ -70,27 +44,21 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 ### ⚙️ Backend
 
 <p align="left">
-  <abbr title="Java">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </abbr>
-
-  <abbr title="Spring Boot">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </abbr>
-
-  <abbr title="PHP">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </abbr>
-
-  <abbr title="Laravel">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </abbr>
-
-  <abbr title="J2EE / Jakarta EE">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </abbr>
+  <img src="https://skillicons.dev/icons?i=java" title="Java (Spring Boot / Spring / J2EE)" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot / Spring" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
 </p>
 
+---
+
+### 🗄️ Bases de données
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" />
+</p>
 ---
 
 ### 🗄️ Bases de données
