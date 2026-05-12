@@ -48,7 +48,7 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 </p>
 
 
-###  Bases de données
+###  Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;
