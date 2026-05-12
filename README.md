@@ -20,9 +20,9 @@ Je conçois des solutions complètes du front-end au back-end avec une attention
 
 ---
 
-##  Compétences Techniques
+###  Compétences Techniques
 
-### Frontend
+#### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;&nbsp;
